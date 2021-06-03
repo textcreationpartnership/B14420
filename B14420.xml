@@ -1,0 +1,408 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A sermon, preached before the Lords of the Councel, in K. Henry the seauenths Chappell. Sept. 23. 1607 At the funerall of the most excellent &amp; hopefull princess, the Lady Marie's Grace. By I.L.</title>
+            <author>Leech, Jeremy, d. 1644.</author>
+         </titleStmt>
+         <extent>Approx. 55KB of XML-encoded text transcribed from 31 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B14420</idno><idno type="EEBO-CITATION">99844089</idno>
+  <idno type="VID">176937</idno>
+  <idno type="EEBO-PROQUEST">2240911682</idno>
+  <idno type="STC">STC 15363.7</idno>
+  <idno type="STC">ESTC S108430</idno>
+  
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99844089e"/>
+            <note>(EEBO-TCP ; phase 2, no. B14420)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 176937)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 720:08)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A sermon, preached before the Lords of the Councel, in K. Henry the seauenths Chappell. Sept. 23. 1607 At the funerall of the most excellent &amp; hopefull princess, the Lady Marie's Grace. By I.L.</title>
+                  <author>Leech, Jeremy, d. 1644.</author>
+               </titleStmt>
+               <extent>[8], 47, [5] p.   </extent>
+               <publicationStmt>
+                  <publisher>By H[umphrey] L[ownes] for Samuel Macham: and are to be solde at his shop, in Pauls Churchyard, at the signe of the Bull-head,</publisher>
+                  <pubPlace>Imprinted at London :</pubPlace>
+                  <date>1607.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>I.L. = Jeremy Leech.</note>
+                  <note>Printer's name from STC.</note>
+                  <note>Running title reads: A funerall sermon.</note>
+                  <note>"An elegie, vpon the death of the most excellent and hopefull princesse, the Lady Marie's Grace", in verse, E2-3.</note>
+                  <note>Identified as STC 15374 on UMI microfilm.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Funeral sermons.</term>
+               <term type="topical_term">Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-01 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-03 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-03 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:176937:1"/>
+            <pb facs="tcp:176937:1"/>
+            <p>A SERMON, PREACHED BE<g ref="char:EOLhyphen"/>FORE THE LORDS of the Councel, in K. HENRY <hi>the seauenths Chappell.</hi> Sept. 23. 1607.</p>
+            <p>At the Funerall of the <hi>most excellent &amp; hopefull Prin<g ref="char:EOLhyphen"/>cess,</hi> the Lady MARIE'S GRACE.</p>
+            <p>
+               <hi>By</hi> I. L</p>
+            <q>
+               <bibl>
+                  <hi>Iob. 17.14.</hi>
+               </bibl>
+               <p>I shall say to Corruption, Thou art my father; and to the Worm, Thou art my mother, and my sister.</p>
+            </q>
+            <p>Imprinted at London by <hi>H. L.</hi> for <hi>Samuel Macham:</hi> and are to be solde at his shop, in <hi>Pauls</hi> Churchyard, at the signe of the Bull-head. 1607.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:176937:2"/>
+            <pb facs="tcp:176937:2"/>
+            <head>TO THE RIGHT Honourable, the Lady <hi>Eliza<g ref="char:EOLhyphen"/>beth Knyuet,</hi> wife to the right <hi>Noble and vertuous</hi> Thomas <hi>L.</hi> Knyuet, <hi>Baron of</hi> Estorick, my verie singular good Lord and Patron. ∵</head>
+            <p>
+               <hi>
+                  <seg rend="decorInit">M</seg>Adame:</hi> It is a common saying in the world, that Examples are of greater force to perswade, than Precepts; and Experience the best Mistresse, for the teaching of Wise<g ref="char:EOLhyphen"/>dome: And yet, euen Experience teacheth, that notwithstanding all the examples, which from the first infancie and child-birth of the world haue beene presented to our eyes
+<pb facs="tcp:176937:3"/>(as so many speaking witnesses of that ineuitable mortalitie, to which our liues are exposed) yet are wee not made <hi>wise in the vnderstanding of our ende.</hi>
+               <note place="margin">
+                  <hi>Deut.</hi> 32.29</note> The death of the late excellent and noble Princesse (which I will not say was vntimely, though it were early; for, shee fell not like the fruit that growes out of season: but, betimes shee was ripened and made fit to be gathered) may teach those that bee young, not to be con<g ref="char:EOLhyphen"/>fident of their life; those that bee old, howerly to exspect their death; both olde and young to obserue that precept of K. <hi>Salomon, Not</hi> peremp<g ref="char:EOLhyphen"/>torily <hi>to boast of the morrow:</hi>
+               <note place="margin">
+                  <hi>Prou.</hi> 27.1.</note>
+               <hi>be<g ref="char:EOLhyphen"/>cause they knowe not, what a day may bring forth.</hi> That, which we are taught by the life of her example, we may also learn from the letter of this Sermon; the one seruing as an instru<g ref="char:EOLhyphen"/>ctiō to our eyes, the other to our ears, both to our harts: which, because I was
+<pb facs="tcp:176937:3"/>enioyned to preach at her Funerall, I am also willing to print for her Me<g ref="char:EOLhyphen"/>moriall; that as I ought her my ser<g ref="char:EOLhyphen"/>uice while shee liv'd, so being dead I might consecrate to the honour of her name some pledge of my dutie. Per<g ref="char:EOLhyphen"/>haps, the world will censure mee for both; and be ready to condemne me, either of presumption, or vaine<g ref="char:EOLhyphen"/>glorie. But, as I passe not to be iud<g ref="char:EOLhyphen"/>ged of men: so I care not to be ap<g ref="char:EOLhyphen"/>plauded of men. For, God is my record, whom I serue in my spirit, that I desire no greater approbation to be giuen of my labours, than that testimonie of the blessed Apostle; <hi>That in all simplicitie and godly purenesse (not handling the word of GOD deceitfully) I approue my self to euerie mans conscience,</hi>
+               <note place="margin">2. <hi>Cor.</hi> 4.2.</note>
+               <hi>in the sight of GOD.</hi> I knowe, the Penne cannot bee so grace<g ref="char:EOLhyphen"/>full as the Tongue; nor a speach, that is buried vnder a dead letter,
+<pb facs="tcp:176937:4"/>so patheticall in perswasion, as that which is vttered by a liuing voyce. This might somthing discourage me: yet, I greatly regard it not. For, Hee that <hi>in the morning</hi> bids vs to <hi>sow our seede, and in the euening not suffer our hand to rest,</hi>
+               <note place="margin">
+                  <hi>Eccles.</hi> 11.6.</note> Hee (I hope) wil vouchsafe to sanctifie, with some blessing of his Spirit, that which I haue beene carefull to plant and to water.</p>
+            <p>That I presume to send it foorth into the world, vnder the counte<g ref="char:EOLhyphen"/>nance of your Honourable protecti<g ref="char:EOLhyphen"/>on, two special reasons do induce me; the one, in regard of the deceased La<g ref="char:EOLhyphen"/>die: the safety of whose person being once the ioy of your life, and the soūd of her name continuing still deare to your remembrance; this Monument of my seruice, being dedicated to her Memorie, is therfore fittest to bee shrouded vnder the fauour of your Patronage. This <hi>(Madam)</hi> I knowe,
+<pb facs="tcp:176937:4"/>you may say with <hi>Iob,</hi> that <hi>your witnesses are in heauen &amp; in earth,</hi> that if you might haue begged but her life of God, it would haue beene the greatest gaine you desired; and that, God hauing taken her away, the wāt of her self is the greatest losse you haue lamented. If there be any that will speak euill of those things which they know not, they be such whose tongues doe burne with malice; and let them blyster with the fire that kindles them: you may make a garland, for your selfe, of their reports.</p>
+            <p>The other motiue, in regard of my selfe; that entertainement and pre<g ref="char:EOLhyphen"/>ferment, which so freely and bounti<g ref="char:EOLhyphen"/>fully (for the poor seruice that I doe) I haue receiued from your selfe, and my thrice honourable good Lord: the most thankefull acknowledgement whereof, if euer I forget; I will not say with <hi>Dauid, Let my right hand forget her cunning</hi> (for,<note place="margin">
+                  <hi>Psal.</hi> 137.5.</note> that is lit<g ref="char:EOLhyphen"/>tle)
+<pb facs="tcp:176937:5"/>but, Let God himselfe forget to preuent me with any grace, or to fol<g ref="char:EOLhyphen"/>low me with any blessing.</p>
+            <p>It is now time, for me, to make an end of my tedious dedication: which I seale-vp with my heartiest prayers to the God of Heauen, both for my Noble Lord, and your selfe; besee<g ref="char:EOLhyphen"/>ching him, that hee would multiplie his mercies vpon you, and his graces in you, and so vouchsafe to sanctifie the crosses that hee sends you as well as the blessings, that both may worke together for your good vpon earth, and for your glorie in heauen.</p>
+            <closer>
+               <signed>
+                  <hi>Your Honours most humbly deuoted, in all dutie and seruice,</hi> I. Leech.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="1" facs="tcp:176937:5"/>
+            <head>A SERMON, preached at the funeral <hi>of the Lady</hi> MARIES GRACE.</head>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>2. Cor. 5.1.</hi>
+                  </bibl>
+                  <p>For, we know that if this earthly house of our Tabernacle be destroyed, we haue a building giuen of God.</p>
+               </q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">T</seg>HE sole and soueraigne priuiledge, which man can challenge to him<g ref="char:EOLhyphen"/>self aboue all other mor<g ref="char:EOLhyphen"/>tal and inferiour creatures, appears not by the fruition of any present felicitie; but lyes buried vnder the hope of a future happinesse. For (I thinke I may truly and boldly speak
+<pb n="2" facs="tcp:176937:6"/>it) there is not the poorest worme that crawles vpon the earth, but if a tongue were giuen it to dispute with man, it might plead &amp; main<g ref="char:EOLhyphen"/>tain against him, that (y<seg rend="sup">e</seg> hope which hee hath in Christ Iesus only being set apart) he is of al liuing creatures the most miserable.<note place="margin">1. <hi>Cor.</hi> 15.19</note> In consideratiō wherof, ther be two special things, about which we ought alwayes to spend our devoutest thoughts, and to exercise our most serious medi<g ref="char:EOLhyphen"/>tations; first, <hi>vnde abeundum,</hi> and then <hi>quò transeundum:</hi> first, from whēce we must remoue, when we depart out of this life; &amp; then whe<g ref="char:EOLhyphen"/>ther we must remoue, after we are once departed. That it shall not be with vs, as it is with the brute beasts of the fielde, which as they liue without honour, so they dye without hope; but, that an after<g ref="char:EOLhyphen"/>conditiō is reserued vnto vs, where sorrow shall be our portion, or ioy
+<pb n="3" facs="tcp:176937:6"/>our inheritance; though the scrip<g ref="char:EOLhyphen"/>tures themselues were silēt, yet the writings of heathen men might be sufficient to testifie: the discipline of Reason, hauing taught them so much in the school of Nature: But that vnspeakeable comfort that is now lockt vp in the bosomes of the faithfull, those that are markt with the seale of Gods Spirit, and haue receiued the adoption of Sonnes, is, that after their deliue<g ref="char:EOLhyphen"/>rance from this vale of teares, af<g ref="char:EOLhyphen"/>ter the dissolution of <hi>their earthly Tabernacle,</hi> they shall bee clothed and crowned with the glorie of Saints, and haue a heauenly <hi>buil<g ref="char:EOLhyphen"/>ding giuen of GOD.</hi> The confi<g ref="char:EOLhyphen"/>dence of this felicitie is as a wall of fire to enuiron them, as a hedge of pikes to defende them, as a girdle of safetie to claspe about them, as an impenetrable shielde buckled fast vppon their arme,
+<pb n="4" facs="tcp:176937:7"/>that will shiuer, and break in pieces, whatsoeuer darts of tentation the prince of darkenesse can throwe a<g ref="char:EOLhyphen"/>gainst them.<note place="margin">
+                  <hi>Ephes.</hi> 6.16</note>
+            </p>
+            <p>And it is heere specially com<g ref="char:EOLhyphen"/>mēded, by this blessed Apostle, as a maine argument of consolation, a<g ref="char:EOLhyphen"/>gainst two speciall doubts, which may perhaps disquiet &amp; shake our hopes: the one is mentioned in the former Chapter, and that is <hi>vitae infaelicitas,</hi> the infelicity of our life; for, the state of it is most wretched and miserable. The other, specified in this Chapter: and that is <hi>mortis necessitas,</hi> the necessitie of our death; for, the stroke of it is most certaine and ineuitable.</p>
+            <p>For the first. Though the life that we lead be ful of misery &amp; vex<g ref="char:EOLunhyphen"/>ation, though we be afflicted on e<g ref="char:EOLhyphen"/>uery side, though we be distressed, though we be persecuted, though we be cast downe; yet notwithstan<g ref="char:EOLhyphen"/>ding
+<pb n="5" facs="tcp:176937:7"/>all this (sayth the Apostle) <hi>we knowe that hee which raised vp the Lord Iesus Christ from the dead, shal raise vs vp at the last day;</hi> and, <hi>for al the light and momentany afflictions</hi> which wee haue here indured, <hi>re<g ref="char:EOLhyphen"/>warde vs with an exceeding excee<g ref="char:EOLhyphen"/>ding weight of glorie.</hi> So he con<g ref="char:EOLhyphen"/>cludes in the latter part of the for<g ref="char:EOLhyphen"/>mer Chap. For the second. Though by the sentence of death, the soule that is now marryed, must bee one day diuorc't &amp; separated from the body, and <hi>the house of this earthly Tabernacle</hi> ruinated and destroyed: Yet notwithstanding all this, sayth the Apostle,<note place="margin">2. Cor. 4.14 17</note>
+               <hi>We know that we shall haue a building giuen of God, a house not made with hands, but eternall in the heauens.</hi> So hee reasons in the beginning of this fift Chapter.</p>
+            <p>The Text thē, which I haue read vnto you, containes in it an argu<g ref="char:EOLhyphen"/>ment of consolation, layde downe
+<pb n="6" facs="tcp:176937:8"/>as you see, in a hypotheticall pro<g ref="char:EOLhyphen"/>positiō, which consisteth of 2. parts; of an Antecedent &amp; a Consequent (if you wil; of a <hi>supposition,</hi> and an <hi>assertion</hi>) both of them grounded vpon certain knowledge &amp; perswa<g ref="char:EOLhyphen"/>sion. In the Antecedēt there is one conclusion granted: in the Conse<g ref="char:EOLhyphen"/>quent there is another conclusion prooued. That which the Apostle grants, is, that <hi>our earthly Taberna<g ref="char:EOLhyphen"/>cle must be destroyed.</hi> That which the Apostle prooues, is, that wee shall <hi>haue a heauenly building giuen of God.</hi> The testimony of his proofe is a word of assurance, which hee hath annexed vnto both as a band of confirmation,<note n="*" place="margin">Gr.</note>
+               <hi>Oidamen gar, Wee know</hi> &amp; are perswaded. First, ther<g ref="char:EOLhyphen"/>fore in the Antecedēt you must be content to furuey the ruines of an <hi>earthly house.</hi> And thē in the Con<g ref="char:EOLhyphen"/>sequent you shall bee led to behold the glory of a <hi>heauenly building.</hi>
+            </p>
+            <pb n="7" facs="tcp:176937:8"/>
+            <p>
+               <hi>If this earthly house of our taber<g ref="char:EOLhyphen"/>nacle be destroied, &amp;c.</hi> In the 16. v. of the former chapter, the Apostle tolde vs of an outward man, and an inward man; that though <hi>our out<g ref="char:EOLhyphen"/>ward man faint, yet our inward man is renewed daily.</hi> And in the begin<g ref="char:EOLhyphen"/>ning of this chapter, he tels vs of an <hi>earthly house, &amp; a heauēly building;</hi> that if God do destroy the one, yet he wil bestowe the other. Though there bee some difference in the words, yet I think it is a continuati<g ref="char:EOLhyphen"/>on of the same allegory: and that as he doth <hi>duos homines constituere,</hi> so he doth <hi>duas vitas proponere;</hi> as hee doth distinguish two sorts of men, so hee dooth propose two sortes of liues, <hi>an outwarde</hi> and <hi>an inward, an earthly</hi> and <hi>a heauenly.</hi>
+            </p>
+            <p>By this <hi>earthly house,</hi> he meanes this earthly bodie, which (like cree<g ref="char:EOLhyphen"/>ping Snayles) wee doe beare a<g ref="char:EOLhyphen"/>bout vs; a <hi>house</hi> indeede, of which
+<pb n="8" facs="tcp:176937:9"/>God himselfe is the builder and the owner, but yet hee leases and lets it to the soule that dwelles in it, as to a guest or a tenant: a house in<g ref="char:EOLhyphen"/>deed, wherein there are many offi<g ref="char:EOLhyphen"/>ces, and many roomes, some ap<g ref="char:EOLhyphen"/>pointed to honour, and som to dis<g ref="char:EOLhyphen"/>honour; and yet all of them built, but for the sustentation of that life, whose continuance is as a breath, and whose strength is as a bubble: a house indeed, that hath a foūdati<g ref="char:EOLhyphen"/>on, but not of stone; pillars that vp<g ref="char:EOLhyphen"/>hold it, but not of marble; wals that inuiron it, but not of brasse; gates that open to it, but not fastened with barres of iron; a roofe that couers it, but not archt with beams of Cedar:<note place="margin">
+                  <hi>Ionah.</hi> 4.7</note> no, rather like the gourd that was made for <hi>Ionas,</hi> that ouer<g ref="char:EOLhyphen"/>night sheltred him from the winde,<note place="margin">Cōmoran<g ref="char:EOLhyphen"/>di Natura diuersoriū dedit, non habitandi. Cic. de sen.</note> and in the morning was deuoured by a worm. It is <hi>Domus</hi> indeede, a house, and therfore a place of ha<g ref="char:EOLhyphen"/>bitation
+<pb n="9" facs="tcp:176937:9"/>where the soule must dwel; but <hi>terrestris domus,</hi> an earthly house, &amp; therfore no place of resi<g ref="char:EOLhyphen"/>dence where the soule must bide: not only <hi>domus terrestis,</hi> an earthly house, but <hi>domus terrae,</hi> a house of earth; for of that moulde it was first made. <hi>Gen.</hi> 2.7. yea <hi>domus luti,</hi>
+               <note place="margin">
+                  <hi>G<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>n.</hi> 2.7</note> a house of clay, and the foundation of it is in the dust. <hi>Iob.</hi> 4.19.<note place="margin">
+                  <hi>Iob.</hi> 4.19</note>
+            </p>
+            <p>But the more clearely to express the fragility of our nature, the A<g ref="char:EOLhyphen"/>postle yet ads another Metaphor; and this body of ours which hee calles <hi>an earthly house,</hi> hee also calles an <hi>earthly Tabernacle,</hi> that which is of lesse honor, of lesse vse, of lesse receipt. The Apostle <hi>Peter</hi> speakes also in the same language: <hi>I thinke it meele to admonishe you while I am in this Tabernacle; for the time is at hand when I must laie my Tabernacle downe.</hi> 2 <hi>Peter,</hi> 1.13.<note place="margin">2. <hi>Pet.</hi> 1.13.14</note>
+            </p>
+            <pb n="10" facs="tcp:176937:10"/>
+            <p>Now, Tents or Tabernacles, you knowe, were but a light and loose kind of couering, spredde over head like a curtaine, (such as the Patri<g ref="char:EOLhyphen"/>arches sometimes dwelt in, <hi>when they wandred about like Pilgrims in sheeps skinnes,</hi>
+               <note place="margin">
+                  <hi>Heb.</hi> 11.37</note>
+               <hi>and in goates skinnes;</hi> such as poore Sheepheards at this day do pitch-vp in the field, or Soul<g ref="char:EOLhyphen"/>diers in a campe) which were only tackt or fastened to the ground with cordes, and easily remooued from place to place. Alas! how can we then maruell, that the corruptible and wretched body of man is so in<g ref="char:EOLhyphen"/>finitely exposed to casualties and misfortunes? considering that it is but <hi>domus terrestris,</hi> an earthly house, or a house of earth; yea, but <hi>tabernaculum</hi> or <hi>tugurium,</hi> a taber<g ref="char:EOLhyphen"/>nacle or a cottage, pitcht lowe by the ground; and therfore easie to be ouerturnd with euery blast of wind, to be washt away with euery storm
+<pb n="11" facs="tcp:176937:10"/>of raine, to be riuen in pieces with euery crack of thūder, to be ransackt and troden vnder foot by the wea<g ref="char:EOLhyphen"/>kest enemy that laies siedge against it. Many there be (sayth <hi>Seneca</hi>) that complaine of many grieuan<g ref="char:EOLhyphen"/>ces, some of paine in their head, some of swelling in their feete, some of aches in their boanes, some of crampes in their ioyntes, this man of distillations,<note place="margin">Seneca in Epist.</note> that man of obstructions, one that hee hath too much blood, another that hee hath too little: but maruell not at it, <hi>Hoc euenire solet in alieno habitantibus;</hi> thus it vsually falles out with them that soiourne in a strange place. For, this recepta<g ref="char:EOLhyphen"/>cle of the bodie, wherein the soule dooth lodge, it is not <hi>Domus</hi> but <hi>Hospitium,</hi> not our Home but our Inne; from whence wee must bee turned-out, at the pleasure of our Hoste.</p>
+            <pb n="12" facs="tcp:176937:11"/>
+            <p>In conclusion therefore, what can we else expect, but (as it follows in my Text) that this Tabernacle, which is so oft remooued, must be at last destroyed? for, how can dust but returne to dust? how can that which is so slightly composed,<note place="margin">
+                  <hi>Gen.</hi> 3.19.</note> but be as lightly dissolued? how can miserable man, that carries such a house of earth vpon his backe, but be in time surcharged with his own burthen, and waighed down to the earth? Happy is he only that addes not a second burthen to the for<g ref="char:EOLhyphen"/>mer, a burthen of sinne I meane: which beside the surcharging of his bodie will sit heauie vppon his soule; and, in steade of pressing that to the earth, waigh downe both in<g ref="char:EOLhyphen"/>to hell.</p>
+            <p>I haue heer a spacious field wher<g ref="char:EOLhyphen"/>in to wander, and my lot is falne to me in a very large and fruitful vine<g ref="char:EOLhyphen"/>yard: but because the vintage
+<pb n="13" facs="tcp:176937:11"/>would be too long, if I should stand about the gathering of euery grape I will onely presume vnder the fa<g ref="char:EOLhyphen"/>uour of your honourable patience, to cull a berrie or two from the principall braunches, and to giue you such a taste of the wine,<note place="margin">1. <hi>Sam.</hi> 14.43</note> as <hi>Io<g ref="char:EOLhyphen"/>nathan</hi> tooke of the honie when he had beene wearied with the toyle of the battell: which may happily refresh, though it doe not fill.</p>
+            <p>I thinke there can bee nothing more vnpleasant, eyther to the eare, or to the heart of man; espe<g ref="char:EOLhyphen"/>cially if hee bee of that gluttons broode,<note place="margin">
+                  <hi>Luke</hi> 16.19.</note> that neuer thought his hands so well set a-worke, as when they were putting on soft rayment vpō his back, or sweet meat into his belly; or, if one of those rich fooles in the Gospell, that found his soule fullest of ease,<note place="margin">
+                  <hi>Luke</hi> 12.19.</note> whē he saw his barns fullest of corne: nay, if he be but of that young mans race that fayne
+<pb n="14" facs="tcp:176937:12"/>would haue been a Disciple to our Sauior Christ; and yet parted from him sorrowfull and heauy,<note place="margin">
+                  <hi>Mat.</hi> 19 22</note> because hee was loathe to part with his great possessions; to him nothing can bee more vnpleasant, than ey<g ref="char:EOLhyphen"/>ther to heare from another, or to remember with himselfe, that he lives heer but as a Tenant to a grea<g ref="char:EOLhyphen"/>ter Lord; that his bodie is but a house which he holds by lease from another owner; that there will a daie come, when the dearest de<g ref="char:EOLhyphen"/>lights &amp; the fairest ornaments that belong to it must be rifled and ript in pieces, and the building it selfe (because a Tabernacle of earth) rui<g ref="char:EOLhyphen"/>nated and destroyed. It is there<g ref="char:EOLhyphen"/>fore a memorable, though a well-knowne storie, that is reported of <hi>Philip</hi> K. of <hi>Macedon</hi> (and me-thinks the more to be admired,<note place="margin">Plutarch in vita Philip.</note> because he was so puissant &amp; so potent an Em<g ref="char:EOLhyphen"/>perour) that after a great battaile
+<pb n="15" facs="tcp:176937:12"/>wherein hee had discomfited and vanquisht the <hi>Athenians;</hi> lest hee should haue been puft vp with too great a glory of the victory that he had gottē, he commanded the page of his chāber, euery morning that he rose, to salute him with this good morrow; <hi>memēto Philippe quòd ho<g ref="char:EOLhyphen"/>mo es;</hi> remēber <hi>Philip</hi> thou art but a man &amp; thou must dy. <hi>But, oh earth, earth, earth! heare the word of the Lord;</hi> for, how pleasant,<note place="margin">
+                  <hi>Ier.</hi> 22.29</note> or how di<g ref="char:EOLhyphen"/>stastful soeuer, the relish of my doc<g ref="char:EOLhyphen"/>trine proue, yet I must be bolde to tel you frō the mouth of an Apost. that the greatest of you all do dwel but in earthly houses: &amp; thogh you be the Kings and the Iudges of the earth,<note place="margin">
+                  <hi>Psal.</hi> 2.10</note> yet (with reuerence be it spo<g ref="char:EOLhyphen"/>ken) you are but earth, iudging earth, and your houses but <hi>Taber<g ref="char:EOLhyphen"/>nacles,</hi> which after manie flittings, after manie fastnings and remoo<g ref="char:EOLhyphen"/>uings must be at last destroied.</p>
+            <pb n="16" facs="tcp:176937:13"/>
+            <p>Me thinks heer are two obserua<g ref="char:EOLhyphen"/>tions, that directly open themselues to our vnderstanding; the one poin<g ref="char:EOLhyphen"/>ting at the mutabilitie, the other at the mortalitie of the liues that wee lead. Their <hi>mutability</hi> is exprest, by comparing the body to a <hi>Taberna<g ref="char:EOLhyphen"/>cle;</hi> the condition whereof is such, that it must be oft remoued. Their mortality, by resembling it to an <hi>earthly house;</hi> the property where<g ref="char:EOLhyphen"/>of is such, that it must bee soon de<g ref="char:EOLhyphen"/>stroied.</p>
+            <p>
+               <note place="margin">Taberna<g ref="char:EOLhyphen"/>cle.</note>They that haue taken vpon thē, to distinguish the life of man into seuerall ages; howsoeuer they doe sometime disagree in the compu<g ref="char:EOLhyphen"/>tation that they make (some recko<g ref="char:EOLhyphen"/>ning them to be three, some foure, some sixe, some seauen) yet all of them (to my vnderstanding) inti<g ref="char:EOLhyphen"/>mate vnto vs thus much, that so manie variations as there be of our age, so many remoouings there be
+<pb n="17" facs="tcp:176937:13"/>of our Tabernacle; which if they be well considered, be they many, or be they fewe, they shall be found so many degrees and steps of our misery, not one of them changing our condition from worse to bet<g ref="char:EOLhyphen"/>ter.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="1"/> The Insant that is newly brought into the world, hee prophecies of himselfe that he is borne the heue of misery, when he salutes the light of his natiuitie with crying &amp; com<g ref="char:EOLhyphen"/>plaining. Therfore was it a custom among the Thracians,<note place="margin">Dererum Inuent. lib. 6. cap. 10.</note> as <hi>Polidor Virgil</hi> hath obserued, alwaies to la<g ref="char:EOLhyphen"/>ment and weep at the birth of their kinsfolks and children, but at their burials to reioyce and feast. And S. <hi>Cyprian</hi> her notes to be of the same opinion, that wee ought not to mourne for those that dye (or not without hope at least,<note place="margin">1. <hi>Thes.</hi> 4.13.</note> as Saint <hi>Paul</hi> hath aduised vs) <hi>quia scimus, non a<g ref="char:EOLhyphen"/>mittieossed pramitti,</hi> because we
+<pb n="18" facs="tcp:176937:14"/>know, that they are not taken from vs but sent before vs, <hi>&amp; quando recedunt, pracedunt;</hi> and when they go away, they do but lead the way.<note place="margin">Praecedebat funus, homi<g ref="char:EOLhyphen"/>nes sequeban<g ref="char:EOLhyphen"/>tur, quasi post ipsum moritu<g ref="char:EOLhyphen"/>ri, subae<g ref="char:EOLunhyphen"/>cuturique.</note> From which opinion also, some imagine a custome was deri<g ref="char:EOLhyphen"/>ued, that at the solemnizing of Fu<g ref="char:EOLhyphen"/>nerals, the hearse or coffin should be born before, and they that did attend it come behinde; figuring thereby and putting themselues in minde, that they must all one day follow in the same way, which hee that was deceast had before them gone. The fashions of which peo<g ref="char:EOLhyphen"/>ple thogh they may appear strange vnto vs, yet Nature it seemes had taught them that by instinct, which <hi>Salomō</hi> in his time obserued by ex<g ref="char:EOLhyphen"/>periēce, that <hi>the day of a mans death is better then the day whē he is born;</hi>
+               <note place="margin">
+                  <hi>Eccles.</hi> 7.3</note> the day when a man is born, being like the time when the Trauailer begins his pilgrimage, and pitches
+<pb n="19" facs="tcp:176937:14"/>his <hi>Tabernacle</hi> abroade; the daie of his death, beeing like the time when hee makes an end of his pe<g ref="char:EOLhyphen"/>regrination and settles his dwelling at home.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="2"/> But from his infancie, he passes on to his childhood, and there with a change of his age, hee findes a change of his trouble: for, in stead of beeing tutourde by his nurse, he is now gouerned by his Parents, or liues perhaps vnder the feruler and discipline of a master, where all the liberty that hee hath is giuen him by allowance, and the freedom of his nature ouer awd with a kind of seruile feare.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="3"/> From his Childhood, he growes vp to riper yeares of discretion and strength: and if euer hee en<g ref="char:EOLhyphen"/>ioie anie happinesse, a body sure<g ref="char:EOLhyphen"/>ly would thinke hee enioies it then. But then, alas, euen then he lyes o<g ref="char:EOLhyphen"/>pen to his greatest misfortunes, be<g ref="char:EOLhyphen"/>ing
+<pb n="20" facs="tcp:176937:15"/>growen sensible by that time in the vnderstanding of his misery: or if hee be not sensible to vnderstand it, the greater is his misery. Then is hee eyther enuied for his vertues, or else flattered in his vices. Is hee wise? the more apt to be an ouer<g ref="char:EOLhyphen"/>weener of himselfe.<note place="margin">
+                  <hi>Pro</hi> 10 1</note> Is he foolish? the greater heauinesse vnto hir that bare him. Is he beautiful? the more open to the temptations of iust. Is he deformed? the more readie to bee made the scorne of tongues. Is hee rich? the easlyer drawne to couetousnesse or to luxury. Is hee poore? the sooner tempted to steal,<note place="margin">
+                  <hi>Pro.</hi> 30.9</note> and to deny God that made him. Is he noble? the neerer to his own ouerthrowe by pride &amp; ambition▪ Is he ignoble? the fitter to be trod<g ref="char:EOLhyphen"/>den downe into disgrace and con<g ref="char:EOLhyphen"/>tempt. Is hee strong? the lesse a<g ref="char:EOLhyphen"/>ble to containe himselfe from the reuenging of iniurie. Is he weake?
+<pb n="21" facs="tcp:176937:15"/>the lesse able to defende himselfe from the receiuing of iniury: In a word; most inclinable in this age, to the pleasures of sinne and to the lusts of youth, and (whether he liue iustly or iniustly) vnauoidably ex<g ref="char:EOLhyphen"/>posed to one of these extreamities, either not to be in fauor with God, or else to be hated of men.</p>
+            <p>Lastly, (because wee will make but foure periods or diuisions of a mans life, the first <hi>Infantia</hi> his In<g ref="char:EOLhyphen"/>fancy, the second <hi>Pueritia</hi> his child<g ref="char:EOLhyphen"/>hood, the third <hi>Iuuentus</hi> his youth, the fourth <hi>Senectus</hi> his Age; thogh some haue added two more vnto these,<note place="margin">Adolescē<g ref="char:EOLhyphen"/>tia. Virilitas. Senium.</note> and some three) from the summer of his freshest youth, hee soo on declines to the winter of his decrepit &amp; decaying age: and then (as the Oratour writes) <hi>si nihil ali<g ref="char:EOLhyphen"/>ad vitij adferret senectus homini<g ref="char:EOLhyphen"/>bus,</hi>
+               <note place="margin">Lib. de Se<g ref="char:EOLhyphen"/>nect.</note> if but this one inconuenience were incident to olde age, yet this
+<pb n="22" facs="tcp:176937:16"/>one is sufficient to make it burthen<g ref="char:EOLhyphen"/>some &amp; greeuous, <hi>quòd multa quae non velit videt,</hi> that it sees manie things which it would not haue li<g ref="char:EOLhyphen"/>ued to see. (But alas!) there be ma<g ref="char:EOLhyphen"/>nie multitudes of diseases that doe then attende vs, manie infirmi<g ref="char:EOLhyphen"/>ties that doe hang about vs. The eyes, which are appointed to be the watchmen of this <hi>Tabernacle,</hi> and to <hi>look out by the windowes,</hi> as King <hi>Salomon</hi> speaketh,<note place="margin">
+                  <hi>Eccles.</hi> 12.3</note>
+               <hi>they waxe dark;</hi> the armes, which are <hi>the keepers of the house, they doe tremble;</hi> the legges, which are the <hi>strong men</hi> to vpholde it, they <hi>bow themselues;</hi> the lippes, which are <hi>as the doores</hi> to receiue-in the prouision, they <hi>are shut without;</hi> and the teeth, that doe the office of <hi>grinders,</hi> to break and to distribute the foode that is drest for it, they do <hi>cease and diminish:</hi> so destitute are we then left of all suc<g ref="char:EOLhyphen"/>cour and sustenance, <hi>vt qui senec<g ref="char:EOLhyphen"/>tutem
+<pb n="23" facs="tcp:176937:16"/>optant,</hi> as S. <hi>Austen</hi> speaketh, <hi>nihil aliud optant nisi longā infirmi<g ref="char:EOLhyphen"/>tatem;</hi> that whosoeuer wish for old age, they wish for nothing else but a long-lingering infirmity.</p>
+            <p>Let me adde vnto all these: As they that dwell in Tabernacles and in Tentes (because I wil still guide the course of my speeche by the thred of my Text) are somtime en<g ref="char:EOLhyphen"/>forc't to remooue eastward, and somtime westward; somtime wher the clime is temperate, and some<g ref="char:EOLhyphen"/>time wher it is almost inhabitable; now to pitch in a fertile soyle, and then in a barren; now where the ayre is healthfull, and then where it is contagious; now in the moun<g ref="char:EOLhyphen"/>tains, and then in the valleies: So is it with wretched man, the Taber<g ref="char:EOLhyphen"/>nacle of whose corruptible bodie is not only subiect in so many reuolu<g ref="char:EOLhyphen"/>tions &amp; years of his age to be once remoued, but euery day &amp; houre of
+<pb n="24" facs="tcp:176937:17"/>his life to be often changed. For, if he be now healthfull, hee is anon sickly: if he be now full, he is anon empty: if his good name doe now flourish &amp; smell as a pretious oint<g ref="char:EOLhyphen"/>ment, it will anon rot, and the ve<g ref="char:EOLhyphen"/>ry remembrance of it becom hate<g ref="char:EOLhyphen"/>full. In a word; if the state of his body or of his minde, or of his for<g ref="char:EOLhyphen"/>tune be now prosperous &amp; peace<g ref="char:EOLhyphen"/>able, it wil not long continue at the same stay: but, like the Moone, it wil be sometime waxing and som<g ref="char:EOLhyphen"/>time waning, like the Sea some<g ref="char:EOLhyphen"/>time ebbing and somtime flowing, like the Ayre sometime cleare and somtime clowdie; like the flowers of the Spring, in the morning beautifull and fresh, in the euening without sent or lustre.</p>
+            <p>And lest you might yet ima<g ref="char:EOLhyphen"/>gine, that this is but the condition of some fewe, or a lot that is layde out to some one of a thousand; I
+<pb n="25" facs="tcp:176937:17"/>doe yet affirme, that as there is no age, so there is no state or conditi<g ref="char:EOLhyphen"/>on of mans life, but more or lesse beares a part of these common ca<g ref="char:EOLhyphen"/>lamities, wherewith all the race of mankinde is equally burthened. The King sits vpon the imperiall throne; and yet the golden crowne that hee weares cannot keepe his head from aking. The Peeres and Nobles of his land, they are em<g ref="char:EOLhyphen"/>ployed in the honourable gouern<g ref="char:EOLhyphen"/>ment of the State; but their cares are greater then their honours. The Souldier hee fights for glory in the field; but the best ensignes of it that he brings home, are woundes and scarres. The Marchant he ransacks the bowels of the Sea for wealth; but al hangs, vpō y<seg rend="sup">e</seg> end of the cable, and is exposed to the mercy of the windes and waues. The Scholler, hee spendes his life by an houre<g ref="char:EOLhyphen"/>glasse, while hee labours for the in<g ref="char:EOLhyphen"/>creasing
+<pb n="26" facs="tcp:176937:18"/>of his knowledge;<note place="margin">
+                  <hi>Eccl.</hi> 12.12</note> but hee findes that <hi>there is no end of wrigh<g ref="char:EOLhyphen"/>ting many bookes, and much reading is a wearinesse to the spirit.</hi> The Husband-man, he sweats his heart out in the following of his plough; and thinkes hee makes a good har<g ref="char:EOLhyphen"/>uest, when he gets rent, for the pai<g ref="char:EOLhyphen"/>ment of his Land-Lord. What re<g ref="char:EOLhyphen"/>maines vnto man of all the trauaile that he hath vnder the Sunne?<note place="margin">
+                  <hi>Eccles.</hi> 6.7</note>
+               <hi>All his labor is for his mouth; and yet his soule is not filled. Eccles.</hi> 6.7. Yea all is full of vanitie and vexation, and the tougue cannot vtter it; <hi>The eye is not satisfied with seeing, nor the eare fill'd with hearing:</hi>
+               <note place="margin">Chap. 1.8.</note>
+               <hi>Eccles.</hi> 1.8. Considering therfore that our liues are so full of mutabilitie, well may our bodies be compared vnto <hi>Tabernacles,</hi> the property wherof is such that they must be oft remoued.</p>
+            <p>But, beside that they are full of change and mutability, they be also
+<pb n="27" facs="tcp:176937:18"/>subiect to ruine &amp; mortalitie: and therfore is y<seg rend="sup">e</seg> body again resembled to <hi>an earthly house;</hi>
+               <note place="margin">Earthly house.</note> the condition wherof is such that it must be soon destroyed. Indeed, it is a lawe and a statute, not made by vs, but bred with vs, to which we are not by a<g ref="char:EOLhyphen"/>ny humane discipline instructed, tu<g ref="char:EOLhyphen"/>tourd, or trained vp, but by a cele<g ref="char:EOLhyphen"/>stiall power moulded, fashioned, &amp; contriued; which not the frailety of fortune, but a necessitie of Na<g ref="char:EOLhyphen"/>ture, not the rashnes of man, but the iustice of God hath enacted; that whatsoeuer is composed of Ele<g ref="char:EOLhyphen"/>ments, the same should bee againe digested &amp; dissolued into Elemēts; that nothing which hath a spring-time and a birth, but must haue a ruine and decaie; nothing which receiues grouth and increase, but must languish and waste; nothing which had once a beginning, but must in time decline vnto his ende.
+<pb n="28" facs="tcp:176937:19"/>Yea, euen that frame and texture which we once receiued at our first creation, when (not by the artifici<g ref="char:EOLhyphen"/>all workemanship of <hi>Prometheus,</hi> but by the hand of diuinest proui<g ref="char:EOLhyphen"/>dence) we were composed of soules and bodies, a soule that was inspi<g ref="char:EOLhyphen"/>red from heauen, a body that was extracted from the earth, a soule that was the daughter of eternitie, a bodie that was a vessell of corrup<g ref="char:EOLhyphen"/>tion, a soule that was immaculate and diuine, a body that was slimie and impure; euen this may teache vs that in natures and substances so different, so repugnant, so full of contrarietie, it is not possible that any neerenesse of friendship, or the confidence of any long endu<g ref="char:EOLhyphen"/>ring safety should bee procured or expected.</p>
+            <p>
+               <note place="margin">Artabani orat. ad xerxem.</note>I will not heere complaine with that heathen man, of the cruelty of Nature, which hee resembles to
+<pb n="29" facs="tcp:176937:19"/>that of <hi>Mezentius</hi> the Hetrurian ty<g ref="char:EOLhyphen"/>rant. He with most nefarious cru<g ref="char:EOLhyphen"/>eltie deuised to chame liuing and dead bodies togither, and bound mouth to mouth, till the rotten carcasses of the deade had stifled the breath of the liuing. She, in like manner by ioyning our soules to our bodies, seemes to couple the liuing with the dead and the rotten with the sound, that so the breath of our liues might bee wasted with misery. I would rather commend vnto you the counsell of a holy Fa<g ref="char:EOLhyphen"/>ther,<note place="margin">Austen.</note> who considering this vnauoi<g ref="char:EOLhyphen"/>dable necessity of our death and dis<g ref="char:EOLhyphen"/>solution,<note place="margin">Latet vltimus dies, vt obser<g ref="char:EOLhyphen"/>ventur omnes dies. Semper vigila, vt si ne<g ref="char:EOLhyphen"/>scias quando veniet, paratū<g ref="char:EOLunhyphen"/>te inueniat quum venerit.</note> bids vs euery day to pre<g ref="char:EOLhyphen"/>pare for that which must one daie come to passe; and because wee cannot possibly auoyde it, therfore patiently to indure it: that though we be vncertaine of the time, when it determins to come, yet because wee are certaine there is a time,
+<pb n="30" facs="tcp:176937:20"/>wherin it hath appointed to come, we may so learne <hi>praesentia contem<g ref="char:EOLhyphen"/>nere,</hi> as wee may the better <hi>ad futu<g ref="char:EOLhyphen"/>ra festinare;</hi> so to dispise present va<g ref="char:EOLhyphen"/>nities, as we may hasten after future ioyes: the same in effect which the Apostle hath heere deliuered by waie of consolation, that <hi>if this earthly house of our Tabernacle must be needes destroyed;</hi> yet with assu<g ref="char:EOLhyphen"/>rance wee may know, that we shall haue a heauenly building giuen of God.</p>
+            <p>The necessity of our death being then ineuitable, because wee dwell as you haue heard in houses that are subiect to corruption, in hou<g ref="char:EOLhyphen"/>ses I say not made of induring mar<g ref="char:EOLhyphen"/>ble, or of shining brasse, or of precious gold, or of polisht Iuory, or of sweete-smelling Cedar; no not of a waterie substance, where<g ref="char:EOLhyphen"/>in there hath beene lesse grosse<g ref="char:EOLhyphen"/>nesse: not of an ayerie, which be<g ref="char:EOLhyphen"/>ing
+<pb n="31" facs="tcp:176937:20"/>more simple, is therefore more pure: not of afierie, which being carryed about in a region so neere the confines of the heauen, is the most vncorrupted; but in houses of slime and of earth, the most impure and putride Element of all the rest; that dust and ashes might haue nothing wherof to be proud; wee shall nor neede (in manie words) to dispute about the man<g ref="char:EOLhyphen"/>ner of our death, or to examine by what meanes this house may be de<g ref="char:EOLhyphen"/>faced; when, hauing so weak a foun<g ref="char:EOLhyphen"/>dation, it canot but be battered with the weakest assault.</p>
+            <p>Yet three manner of waies there are, by which the fall and ruine of these materiall buildings, these houses of wood &amp; of stone; which are the seats of our habitation is for the most part occasioned; eyther whē they be smitten with casualty, or when they be sackt by hostility,
+<pb n="32" facs="tcp:176937:21"/>or when they decaie through anti<g ref="char:EOLhyphen"/>quitie. And by the very like occasi<g ref="char:EOLhyphen"/>ons you shall find, that these natu<g ref="char:EOLhyphen"/>rall houses, these lodgings of earth and of claie which we call our bo<g ref="char:EOLhyphen"/>dies, doe also come to bee wasted and dissolued. <hi>Tres sunt enim nun<g ref="char:EOLhyphen"/>tij mortis; easus, infirmitas, senec<g ref="char:EOLhyphen"/>tus.</hi> For there bee three Heraults or Messengers of death; Casu<g ref="char:EOLhyphen"/>altie, Sicknesse, and Age. <hi>Casus dubia, infirmitas grauia, senectus certanuntiat:</hi> Casualtie, that tels vs of a doubtfull end; sicknesse, that tels vs of a painefull ende; age, that tells vs of a certain end. <hi>Casus nun<g ref="char:EOLhyphen"/>tiat mortem latentem, infirmitas apparentem, senectus praesentem.</hi> Casualtie, that is the messenger of a secret death; Sickenesse, that is the messenger of an approaching death. Age, that is the messenger of a present death.</p>
+            <p>But S. <hi>Austen</hi> hath a notable say<g ref="char:EOLhyphen"/>ing<note place="margin">Lib. 1. de ciuit. Del.</note>
+               <pb n="33" facs="tcp:176937:21"/>They, that by a fatall necessity are bound to die need not take care or be troubled <hi>quid accidat vt mo<g ref="char:EOLhyphen"/>riantur, sed moriendo quò ire co<g ref="char:EOLhyphen"/>gantur;</hi> what happen to bee the cause of their death, but to what place they must bee sent after their death. Indeed, Beloued, hee that learnes this, learnes all: for, whatso<g ref="char:EOLhyphen"/>euer the hand be that giues the fa<g ref="char:EOLhyphen"/>tall stroke; or whensoeuer the time bee, that the mace of death is brought to arrest vs; let it bee in the dayes of our fullest strength, <hi>When our breasts do flowe with milk,</hi>
+               <note place="margin">
+                  <hi>Iob.</hi> 21.24</note>
+               <hi>and when our bones run full of mar<g ref="char:EOLhyphen"/>rowe:</hi> or let it be in the bitternesse of our soule, when wee eat not our morsells with peace; <hi>Blessed shall we be, if we dye in the Lord;</hi>
+               <note place="margin">
+                  <hi>Reuel.</hi> 14.14</note> if (as the Apostle heere speaketh) wee know and be assured, that when <hi>this earthly house of our Tabernacle is destroyed, wee shall haue a building
+<pb n="34" facs="tcp:176937:22"/>giuen of God.</hi> But in the meane time, shal I clap my hands with <hi>De<g ref="char:EOLhyphen"/>mocritus</hi> and laugh, or with <hi>Hera<g ref="char:EOLhyphen"/>clitus</hi> shall I sigh and weepe; to be<g ref="char:EOLhyphen"/>hold the follyes of this age, and the vanities of manie, who thogh they be simple as the brute beastes, that haue no vnderstanding, yet <hi>think themselues wiser in their owne con<g ref="char:EOLhyphen"/>ceits then seauē men that can render a reason.</hi>
+               <note place="margin">
+                  <hi>Prou.</hi> 26.16</note> The spirit of God dooth heere teach vs, that our bodies are but flitting <hi>Tabernacles,</hi> which must be oft remoued; but <hi>houses of earth, which must soon be destroyed.</hi> Now (good Lord!) what meanes all the labour that we employ, all the Art that we bestow, all the cost that we dispend, about the painting &amp; pat<g ref="char:EOLhyphen"/>ching of these tottering and thinne plaistred wals that are so rotten and so ruin ous? How do we deck them without? how doe wee dresse them within? without, we make the shine
+<pb n="35" facs="tcp:176937:22"/>very glorious: but they be tricks of <hi>Iezabels</hi> Art. 2. <hi>Reg.</hi> 9. and the or<g ref="char:EOLhyphen"/>naments that wee buy for them are very costly and sumptuous;<note place="margin">2. <hi>Reg.</hi> 9</note> but in many they be emblemes of <hi>Herods</hi> pride within:<note place="margin">
+                  <hi>Act.</hi> 12.21</note> wee receiue guestes into the rooms; but they be legiōs of vnclean diuels, such as defile eue<g ref="char:EOLhyphen"/>rie office in the house; the mouth with swearing and blasphemie (that common and cursed sinne of this licentious age) the eyes with wan<g ref="char:EOLhyphen"/>tonness and vanity, the hands with oppression &amp; vsury, the heart with malice and cruelty. O! how much better were it, that our habitation should be desolate and voyde, then that a <hi>temple of the holy-ghost</hi> shuld be so polluted?<note place="margin">1. <hi>Cor.</hi> 6.19</note>
+            </p>
+            <p>Finally: wheras it should be our principall indeuour, to seeke after heauenly buildings, <hi>such as are gi-of God;</hi> they bee earthly buildings which we do principally seek after,
+<pb n="36" facs="tcp:176937:23"/>such as be made by men, houses of stone forsooth, to couer houses of earth, and lands and fields to laie in compasse about them; as if manie myles of ground were too fewe to content vs, when sixe foote of ground is sufficient to containe vs.</p>
+            <p>Well. Let mee now tell you at the last (because I will drawe to an end) that ther is a three fold earth, as by some hath beene prettily ob<g ref="char:EOLhyphen"/>serued. There is <hi>terra quam teri<g ref="char:EOLhyphen"/>mus,</hi> there is <hi>terra quam gerimus;</hi> there is <hi>terra quā quaerimus.</hi> There is <hi>terra quam terimus;</hi> and this is that wherein we labour, euen that ball of earth vpon which we tread. There is <hi>terra quam gerimus;</hi> and this is that wherein we lodge, euen that <hi>house of earth</hi> of which wee speak. There is <hi>terra quam quaeri<g ref="char:EOLhyphen"/>mus;</hi> and this is that for which we look, euen that newe heauen, and that new earth, whereof Saint <hi>Iohn</hi>
+               <pb n="37" facs="tcp:176937:23"/>hath made that elegant description, <hi>Reuel.</hi> 21.1. The first of these is sub<g ref="char:EOLhyphen"/>iect to corruption; for, in <hi>the day of the Lord if shall be purged with fire,</hi> 2. <hi>Pet.</hi> 3.10. And the second is sub<g ref="char:EOLhyphen"/>iect to mortalitie; for, what man liues that shall not see death? <hi>or who shall deliuer his soule from the hand of the graue?</hi> Psal. 89.48.</p>
+            <p>
+               <note place="margin">
+                  <hi>Application.</hi> Nemo tam se<g ref="char:EOLhyphen"/>nex, qui non possit annum viuere.</note>Though commonly we say that there is none so old but he may liue a yeare; yet as good reason we haue both to say and thinke that there is none so young but hee may dye to day.<note place="margin">Nemo tam iu<g ref="char:EOLhyphen"/>uenis, qui non possit hodie mori.</note> You haue heer the body of a Princely Infant to beholde: and it is heere presented to your eyes as a memorable spectacle, too truly ve<g ref="char:EOLhyphen"/>refying &amp; confirming whatsoeuer I haue saide. If the benefit of anie priuiledge might haue exempted and secur'd her; no question but she had beene rescued form the iawes of death, and not so soone made
+<pb n="38" facs="tcp:176937:24"/>a prisoner to the inexorable barres and bandes of the graue.</p>
+            <p>The tabernacle of her house, it was but newely reard; it had, you know, a royall and a Kingly founda<g ref="char:EOLhyphen"/>tion, it had all the honorable or<g ref="char:EOLhyphen"/>naments and supportations that might anie waie vphoulde it in strength and beautie. No trauell, no charge, no care, no attendance, no seruice or obseruation, which the skilfullest Art of man, or the most indulgent tendernesse of a mother-like affection coulde possi<g ref="char:EOLhyphen"/>bly compasse or inuent, eyther day or night was wanting (and I speake no more but that of which I haue been from time to time <hi>&amp; auritus &amp; oculatus testis,</hi> both an eare and an eie-witnesse) to haue preser<g ref="char:EOLhyphen"/>ued it inuiolable from this assault and battery. But, what auailed it the Image of <hi>Nebuchadnezzar,</hi> that it had a head of golde, a breast of
+<pb n="39" facs="tcp:176937:24"/>siluer, thighs of brasse,<note place="margin">
+                  <hi>Dan.</hi> 2.31</note> legges of I<g ref="char:EOLhyphen"/>ron, when the clay that was ming<g ref="char:EOLhyphen"/>led in the feete, was a most omi<g ref="char:EOLhyphen"/>nous and infallible prediction, that it coulde not bee of any dura<g ref="char:EOLhyphen"/>ble, or lasting continuance? The house wherein shee lodged was a weake house of clay: which be<g ref="char:EOLhyphen"/>ing manie wayes obnoxious to frailety and corruption, it coulde not but dissolue; though I doubt not, but that noble Spirit, which once inhabited that earthly mansi<g ref="char:EOLhyphen"/>on, hath now a heauenly <hi>building giuen of GOD,</hi> where it is made to raigne with the Saints and An<g ref="char:EOLhyphen"/>gels.</p>
+            <p>Shee is therfore fallen: and wee may say of her as it was sayd of <hi>Ab<g ref="char:EOLhyphen"/>ner,</hi> that <hi>a great Prince is fallen this day in Israel.</hi>
+               <note place="margin">2. <hi>Sam.</hi> 3.38</note>
+               <note place="margin">
+                  <hi>Psal.</hi> 144.12</note> Shee was one of the <hi>polished corners</hi> that beautified our <hi>temple,</hi> one of the foure pillars that so gorgeously vphelde the maiestie
+<pb n="40" facs="tcp:176937:25"/>of our Kingdome. <hi>In her life shee was louely and plesant,</hi>
+               <note place="margin">2. <hi>Sam.</hi> 1.13</note> so sang DA<g ref="char:EOLunhyphen"/>VID of <hi>Ionathan</hi> and <hi>Saul:</hi> and though but as that little Sister of whom <hi>Salomon</hi> writes,<note place="margin">
+                  <hi>Cant.</hi> 8.8</note>
+               <hi>Cant.</hi> 8.8. <hi>We haue a little sister and she hath no breasts;</hi> yet by the light and heate, that was seen glowing from so lit<g ref="char:EOLhyphen"/>tle a sparke, one that promist excel<g ref="char:EOLhyphen"/>lent hopes (to the world) of whatso<g ref="char:EOLhyphen"/>euer we account to be vertuous and laudable. But such was the man<g ref="char:EOLhyphen"/>ner of her death, as bred a kinde of admiration in vs all that were pre<g ref="char:EOLhyphen"/>sent to behold it. For, whereas the new-tuned Organs of her speech, by reason of her wearisome and te<g ref="char:EOLhyphen"/>dious sicknesse, had been so great<g ref="char:EOLhyphen"/>ly weakened, that for the space of twelue or fourteene howres at the least, there was no <gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ound of anie word heard, breaking from her lips; yet when it sensibly appeard that she would foone make a peaceable
+<pb n="41" facs="tcp:176937:25"/>end of a troublesome ife, she sight out these words, <hi>I goe, I goe:</hi> and when not long after, ther was som<g ref="char:EOLhyphen"/>thing to bee ministred vnto her by those that attended her in the time of her sicknes; fastning her eye vp<g ref="char:EOLhyphen"/>pon them with a constant looke, a<g ref="char:EOLhyphen"/>gaine she repeated, <hi>Awaie, Igoe.</hi> And yet a third time, almost imme<g ref="char:EOLhyphen"/>diately before shee offered vp her selfe a sweete Virgin-sacrifice vnto him that made hir, faintly she cryed <hi>Igoe, Igoe.</hi> The more strange did this appeare to vs that heard it, in that it was almost incredible that so much vigour should stil remaine in so weake a body; and whereas shee had vsed many other words in the time of her extreamitie, yet that now at last (as if directed by super<g ref="char:EOLhyphen"/>naturall inspiration) shee did so apt<g ref="char:EOLhyphen"/>ly vttter these, and none but these.</p>
+            <p>Her losse cannot but bee an affli<g ref="char:EOLhyphen"/>ction to her parents, a mayme to
+<pb n="42" facs="tcp:176937:26"/>our Kingdome, a warning to vs all, to her self no matter of sorrowe or complaint, being happily arriued with so little tossing in a tempestu<g ref="char:EOLhyphen"/>ous Sea, at the shore of blessednesse and the Land of peace. But how<g ref="char:EOLhyphen"/>soeuer it bee a smarting visitation, if it bee well considered, that so noble a branch is broken from the bodie of our Land; this comfort is yet reserued (and long may it with comfort continue vnto vs) that the royall stocke wheron it grew doth still flourish, that a fruitefull vine is still spreading vpon the side of the Kings house, and many oliue plantes left standing about his Ta<g ref="char:EOLhyphen"/>ble. And yet another comfort in respect of her selfe, that no sonne of <hi>Beliall</hi> hath been suffered to but<g ref="char:EOLhyphen"/>cher her with a sacrilegious hand (as the Diuell had once intended it) but that God himself, who planted her as a beautiful flower in his own
+<pb n="43" facs="tcp:176937:26"/>garden, hath with his own hand bin pleased to gather her, euen as a <hi>Lil<g ref="char:EOLhyphen"/>ly from among the thorns;</hi> for whom I doubt not but she was made ready and ripe betime. The stalke of her life being thus early cropt, euen in the spring and prime of her infan<g ref="char:EOLhyphen"/>cie, when the blossome of it had but newe begun to button and to budde, shee hath lost perhappes a fewe dayes of ioie, but (I dare boldely speak it) many moneths of sorrowe, being mercifully deliue<g ref="char:EOLhyphen"/>red from those variable annoiances which shee must vndoubtedly haue felt, if shee had surviv'd to the Au<g ref="char:EOLhyphen"/>tumn of hir age. So much the grea<g ref="char:EOLhyphen"/>ter is her happinesse, that notwith<g ref="char:EOLhyphen"/>standing the shortning of hir world<g ref="char:EOLunhyphen"/>ly sorrowes, she loseth not the least part in that blessed portion which all the Saints of God both great and smal do expect at the resurrectiō of y<seg rend="sup">e</seg> righteous. <hi>Seneca,</hi> thogh a heathē
+<pb n="44" facs="tcp:176937:27"/>man,<note place="margin">Seneca in Epist.</note> to this purpose hath an excel<g ref="char:EOLhyphen"/>lent saying: <hi>Hic plus edit; ille mi<g ref="char:EOLhyphen"/>nus: quid refert, si vter{que} satur est.</hi> One eates more, another lesse: but what is this materiall, if they both do satisfy their hunger. One drinks more, another lesse: but what is this materiall, if they both doe as<g ref="char:EOLhyphen"/>swage their thirst? Thou liuest a longer time, I a shorter: but what is this to the purpose, if at last wee be both made equally happy?</p>
+            <p>The end of all is this;<note place="margin">Conclusion.</note> that wher<g ref="char:EOLhyphen"/>as from that which we haue heard, and by this that we haue seene, it is euidently apparant that the life that we lead, is not only exposed to mu<g ref="char:EOLhyphen"/>tability, but is also subiect to morta<g ref="char:EOLunhyphen"/>lity (for it is that <hi>terra quā gerimus,</hi> that earth which wee carrie about vs, euen that <hi>Tabernacle</hi> sayth my Text, which must be oft remooued, and that terrestriall house which must be soone <hi>destroyed</hi>) that first
+<pb n="45" facs="tcp:176937:27"/>therefore we learn to confesse with <hi>Iacob</hi> that the dayes of this life are but <hi>the dayes of our pilgrimage;</hi>
+               <note place="margin">
+                  <hi>Gen.</hi> 47.9</note> the same in effect which is taught vs in the sixt ver. of this Chapt. <hi>that while we are dwelling in the body, wee are absent from the Lord;</hi> and then to pray with <hi>Moses,</hi>
+               <note place="margin">
+                  <hi>Psal.</hi> 90.13</note> that God woulde <hi>teach vs how to number these dayes;</hi> that, as it followes in the eightth verse, <hi>whether wee be remaining at home or remoouing from home, wee may alwaies couet to be acceptable in his sight.</hi> So shall we knowe &amp; be assured, that when <hi>this earthly house of our Tabernacle is destroyed, wee shall haue a building giuen of God:</hi> euen that inheritance that S. <hi>Peter</hi> speakes of,<note place="margin">1. <hi>Pet.</hi> 1.4 <hi>Luk.</hi> 12.32 <hi>Reuel.</hi> 21.1</note> that <hi>Kingdome</hi> that our Sauiour Christ speakes of, that ce<g ref="char:EOLhyphen"/>lestiall Citie of the new <hi>Ierusalem,</hi> that S. <hi>Iohn</hi> speakes of; the frame wherof is all of golde, and the wals of shining Iasper; the walles haue
+<pb n="46" facs="tcp:176937:28"/>twelue foundations, and the twelue foundations are twelue pretious stones; the foundations haue twelue gates, and euery gate an entire pearle; the gates haue twelue Por<g ref="char:EOLhyphen"/>ters &amp; euery Porter a glorious An<g ref="char:EOLhyphen"/>gell. In the midst of this Citie, there stands the throne of peace; At the foote of this throne, there flowes the riuer of saluation. About the sides of this riuer there growes the tree of life. The fruite of this tree is good for foode; and the leaues, to cure the stinges of Serpents. This is that <hi>terra quam quaerimus;</hi> that new heauen and that new earth, for the which we do seeke, after which we must sigh, in the which we shall reigne, and to the which God of his infinite mercy bring vs, as we doubt not but he hath brought this excel<g ref="char:EOLhyphen"/>lent and now-happy Lady; and that through the alone merits and me<g ref="char:EOLhyphen"/>diation of his deare Son our bles<g ref="char:EOLhyphen"/>sed
+<pb n="47" facs="tcp:176937:28"/>Sauiour Christ Iesus: to whom with the Father and the holy Spi<g ref="char:EOLhyphen"/>rit be giuen and ascribed all honor, and glorie, and power, and dominion, both now and for euer.</p>
+            <p>
+               <hi>Amen.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="elegy">
+            <pb facs="tcp:176937:29"/>
+            <pb facs="tcp:176937:29"/>
+            <head>An <hi>Elegie,</hi> vpon the death of <hi>the most excellent and hopefull</hi> Princesse, the Lady <hi>Marie's</hi> Grace.</head>
+            <lg>
+               <l>
+                  <seg rend="decorInit">W</seg>Hen, to the Altar of thy hallowed toombe,</l>
+               <l>My sorrowing <hi>Muse</hi> shall (like a Pilgrim)</l>
+               <l>To sacrifice the tears of her cōplaint (come,</l>
+               <l>To thee, a Lady once, but now a Saint</l>
+               <l>(Able, though dead, to make my lines to liue;</l>
+               <l>Could they, to thee, the life of honour giue)</l>
+               <l>And, on a naked marble, there behould</l>
+               <l>Some sad inscription, writ in lynes of gold,</l>
+               <l>Reporting with what conquest Death did bring</l>
+               <l>The royall issue of so great a King</l>
+               <l>(After a siedge, that lasted, from her birth,</l>
+               <l>Three yeares almost) into that prison of earth,</l>
+               <l>Where yet awhile shee must his captiue dwell;</l>
+               <l>Whether to weepe, or ioy, it will not tell.</l>
+            </lg>
+            <lg>
+               <l>When backe I looke, with a remembring eye,</l>
+               <l>To view the ruines (that doe scattered lye)</l>
+               <pb facs="tcp:176937:30"/>
+               <l>Of that rare mansion which in euery part</l>
+               <l>The heauenly Maker built, with wondrous Art;</l>
+               <l>And see the beauties of it quite defac't,</l>
+               <l>The princely guest dislodg'd, the building rac't,</l>
+               <l>The broken reliques (times inglorious pray)</l>
+               <l>All rak't vp rudely in a heape of clay;</l>
+               <l>How can I then my melting eyes containe,</l>
+               <l>From drowning vp my breast with showers of raine?</l>
+               <l>Ah God (thinke I) how vaine a thing is man!</l>
+               <l>His breath a bubble, and his life a span,</l>
+               <l>His swelling honour, but a cloud of smoke,</l>
+               <l>Which turnes to ayre, or els returnes to choke;</l>
+               <l>His house but clay, where (like a trauelling guest)</l>
+               <l>Hee must awhile remaine, not euer rest;</l>
+               <l>His All, but earth, and all to frailty vow'd,</l>
+               <l>Of what should dust and ashes then be proud?</l>
+            </lg>
+            <lg>
+               <l>But, when I forward cast my hope-full sight,</l>
+               <l>To those high chambers of eternall light,</l>
+               <l>To which that noble spirit is now translated</l>
+               <l>(And in the height of glorious blisse enstated)</l>
+               <l>That whilome lodg'd within a wall of dust,</l>
+               <l>Whose fraile foundation was but weake of trust:</l>
+               <l>When that great Cities frame I do behold,</l>
+               <l>The walls of Iasper, and the floore of gold,</l>
+               <l>The <hi>12.</hi> foundations built of pretious stone,</l>
+               <l>The gates <hi>12.</hi> orient pearles, of price vnknowen;</l>
+               <pb facs="tcp:176937:30"/>
+               <l>At which, <hi>12.</hi> Angels (like <hi>12.</hi> warders) stand</l>
+               <l>To guard the way into the Holy Land;</l>
+               <l>Where, though nor Sun nor Moon giue spark of light,</l>
+               <l>Yet Gods owne face that shines diuinely bright</l>
+               <l>(And dims the splendour both of Sunne and Moone)</l>
+               <l>Doth make the night as glorious as the noone:</l>
+               <l>VVhen this immortall house, not made with hands</l>
+               <l>(VVhere her pure soule, a crowned Angell stands,</l>
+               <l>And like a spot-lesse Virgin sweetly sings</l>
+               <l>Her <hi>Hallelu-iah,</hi> to the King of Kings)</l>
+               <l>I see with hope-full eyes; and call to minde</l>
+               <l>The blisse-full ioyes, that there the Saints doe finde;</l>
+               <l>How can my gladded spirit but then reioyce</l>
+               <l>At this her happy change, her heauenly choyce,</l>
+               <l>That with so little paine, so little sinne,</l>
+               <l>Shee can so great a world of glorie winne?</l>
+            </lg>
+            <lg>
+               <l>Ah, dearest God! dissolue this house of mine,</l>
+               <l>Through which I cannot see that glory shine;</l>
+               <l>And breake the cords of my vnfastned tent,</l>
+               <l>VVhere still with change my wandering dayes be spent;</l>
+               <l>That, when this shell of earth is crackt in twaine,</l>
+               <l>My newe-hatcht Soule a second life may gaine.</l>
+            </lg>
+            <lg>
+               <l>So I the Citie of my God may see,</l>
+               <l>Let me a Pilgrim heere, a stranger be.</l>
+            </lg>
+            <closer>
+               <signed>I. Leech.</signed>
+            </closer>
+            <pb facs="tcp:176937:31"/>
+            <pb facs="tcp:176937:31"/>
+         </div>
+      </back>
+   </text>
+</TEI>
